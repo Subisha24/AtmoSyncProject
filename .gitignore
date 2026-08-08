@@ -7,3 +7,5 @@ __pycache__/
 venv/
 # VS Code
 .vscode/
+# Snowflake credentials
+config/*.pem 
