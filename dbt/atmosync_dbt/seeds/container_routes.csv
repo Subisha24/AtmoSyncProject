@@ -1,0 +1,11 @@
+container_id,commodity,source_city,destination_city,distance_km,estimated_travel_hours
+CONT-7218,Avocados,Kochi,Chennai,690,12
+CONT-1211,Mangoes,Bengaluru,Hyderabad,570,10
+CONT-5562,Grapes,Mumbai,Pune,150,3
+CONT-8435,Apples,Delhi,Jaipur,280,5
+CONT-9931,Strawberries,Kochi,Bengaluru,550,9
+CONT-4102,Tomatoes,Chennai,Coimbatore,500,8
+CONT-6754,Broccoli,Hyderabad,Vijayawada,275,5
+CONT-3021,Lettuce,Pune,Nagpur,710,13
+CONT-8891,Bananas,Kochi,Thiruvananthapuram,205,4
+CONT-1045,Oranges,Nagpur,Mumbai,830,15

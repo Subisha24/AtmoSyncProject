@@ -9,3 +9,4 @@ venv/
 .vscode/
 # Snowflake credentials
 config/*.pem 
+dbt/logs/

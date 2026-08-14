@@ -1,0 +1,11 @@
+commodity,category,price_per_kg,ideal_min_temp,ideal_max_temp,shelf_life_days
+Avocados,Fruit,180,4,6,10
+Mangoes,Fruit,120,10,14,8
+Grapes,Fruit,140,0,2,7
+Apples,Fruit,160,2,4,30
+Strawberries,Fruit,300,0,2,5
+Tomatoes,Vegetable,60,10,13,10
+Broccoli,Vegetable,90,0,4,7
+Lettuce,Vegetable,80,0,4,5
+Bananas,Fruit,70,13,15,12
+Oranges,Fruit,100,3,8,21
